@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Animated-Card/static/css/main.8df5893f.chunk.css",
+    "main.js": "/Animated-Card/static/js/main.ad0c340a.chunk.js",
+    "main.js.map": "/Animated-Card/static/js/main.ad0c340a.chunk.js.map",
+    "runtime-main.js": "/Animated-Card/static/js/runtime-main.9d17abdd.js",
+    "runtime-main.js.map": "/Animated-Card/static/js/runtime-main.9d17abdd.js.map",
+    "static/js/2.d924ba6a.chunk.js": "/Animated-Card/static/js/2.d924ba6a.chunk.js",
+    "static/js/2.d924ba6a.chunk.js.map": "/Animated-Card/static/js/2.d924ba6a.chunk.js.map",
+    "index.html": "/Animated-Card/index.html",
+    "static/css/main.8df5893f.chunk.css.map": "/Animated-Card/static/css/main.8df5893f.chunk.css.map",
+    "static/js/2.d924ba6a.chunk.js.LICENSE.txt": "/Animated-Card/static/js/2.d924ba6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d17abdd.js",
+    "static/js/2.d924ba6a.chunk.js",
+    "static/css/main.8df5893f.chunk.css",
+    "static/js/main.ad0c340a.chunk.js"
+  ]
+}
